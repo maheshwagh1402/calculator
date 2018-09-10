@@ -86,7 +86,7 @@ public class CalculatorServlet extends HttpServlet {
 				"                    <option value='2'>Subtraction</option>\r\n" + 
 				"                    <option value='3'>Multiplication</option>\r\n" + 
 				"                    <option value='4'>Division</option>\r\n" + 
-				"                </select>\r\n</br><br/>" + 
+				"                </select>\r\n</br><br/> <hr>" + 
 				"            \r\n" + 
 				"                Result:\r\n" + 
 				"               <input name='n3' type='number' value='"+(result)+"' /></br><br/>\r\n" + 
